@@ -3,3 +3,6 @@
 2:directions
 3:nearby検索
 4:nearby検索,id検索
+
+
+他データ構造はnotion参照
